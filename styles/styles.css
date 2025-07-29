@@ -294,7 +294,7 @@ img {
   padding-top: 50px;
   padding-bottom: 83px;
 
-  background-image: url("/images/main-top-bg.jpg");
+  background-image: url("images/main-top-bg.jpg");
   background-repeat: no-repeat;
   background-size: 100% auto;
   background-color: #68a2ca;
@@ -370,19 +370,19 @@ img {
 }
 
 .advantages-housing {
-  background-image: url("/images/house.svg");
+  background-image: url("images/house.svg");
   background-color: rgba(131, 179, 211, 0.12);
   background-position-y: 89px;
 }
 
 .advantages-food {
-  background-image: url("/images/burger.svg");
+  background-image: url("images/burger.svg");
   background-color: #ffffff;
   background-position-y: 90px;
 }
 
 .advantages-gift {
-  background-image: url("/images/gift.svg");
+  background-image: url("images/gift.svg");
   background-color: rgba(131, 179, 211, 0.12);
   background-position-y: 86px;
 }
@@ -484,7 +484,7 @@ img {
   color: #ffffff;
   text-align: center;
 
-  background-image: url("/images/mailing-bg.jpg");
+  background-image: url("images/mailing-bg.jpg");
   background-repeat: no-repeat;
   background-size: 100% auto;
   background-color: #68a2ca;
@@ -638,7 +638,7 @@ img {
   width: 20px;
   height: 20px;
 
-  background: url("/images/mark.svg") no-repeat;
+  background: url("images/mark.svg") no-repeat;
   background-position: center;
 
   content: "";
@@ -907,7 +907,7 @@ img {
 
   color: #ffffff;
 
-  background-image: url("/images/filter-bg.jpg");
+  background-image: url("images/filter-bg.jpg");
   background-repeat: no-repeat;
   background-size: 100% 100%;
   background-color: #68a2ca;
@@ -982,7 +982,7 @@ img {
   width: 5px;
   height: 8px;
 
-  background: url("/images/arrow.svg");
+  background: url("images/arrow.svg");
 
   content: "";
 }
@@ -1046,7 +1046,7 @@ img {
   color: #333333;
 
   background-color: #ffffff;
-  background-image: url("/images/down-arrow.svg");
+  background-image: url("images/down-arrow.svg");
   background-repeat: no-repeat;
   background-position: right 16px center;
   border: 2px solid #e6e6e6;
@@ -1123,15 +1123,15 @@ img {
 }
 
 .mode-tile {
-  background-image: url("/images/mode-tile.svg");
+  background-image: url("images/mode-tile.svg");
 }
 
 .mode-slideshow {
-  background-image: url("/images/mode-slideshow.svg");
+  background-image: url("images/mode-slideshow.svg");
 }
 
 .mode-listing {
-  background-image: url("/images/mode-listing.svg");
+  background-image: url("images/mode-listing.svg");
 }
 
 .hotel-list {
@@ -1428,7 +1428,7 @@ img {
 
   border: 2px solid #e6e6e6;
   border-radius: 4px;
-  background-image: url("/images/down-arrow.svg");
+  background-image: url("images/down-arrow.svg");
   background-repeat: no-repeat;
   background-position: right 17px center;
 
@@ -1753,7 +1753,7 @@ img {
   padding: 13px 17px 13px 17px;
   margin-bottom: 2px;
 
-  background-image: url("/images/date.svg");
+  background-image: url("images/date.svg");
   background-size: 15px 15px;
   background-repeat: no-repeat;
   background-position: right 19px center;
@@ -1875,7 +1875,7 @@ img {
   border-radius: 50%;
   background-color: #83b3d3;
   border: none;
-  background-image: url("/images/info.svg");
+  background-image: url("images/info.svg");
   background-repeat: no-repeat;
   background-position: center;
 }
